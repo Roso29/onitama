@@ -1,0 +1,11 @@
+flask
+flask_cors
+numpy
+gym
+
+# commented out as want locally installed version
+# stable-baselines
+
+# commented out for tf or tf-gpu
+# tensorflow>=1.8.0,<2.0.0
+# tensorflow-gpu>=1.8.0,<2.0.0

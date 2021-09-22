@@ -1,0 +1,20 @@
+:root {
+    --light: #E7E5E4;
+    --lightText: #A8A29E;
+    --lightPiece: #78716C;
+    --darkPiece: #1C1917;
+    --bg: #57534E;
+    --validMove: #65A30D;
+    --cardCenter: #0284C7;
+    --cardValid: #65A30D;
+    --cardCenterHighlight: #38BDF8;
+    --cardValidHighlight: #A3E635;
+}
+
+.cardDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+
